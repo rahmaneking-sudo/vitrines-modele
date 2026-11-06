@@ -1,0 +1,41 @@
+{
+  "nom": "Studio Ndeye",
+  "secteur": "Salon de coiffure",
+  "ville": "Dakar",
+  "fictif": true,
+  "whatsapp": "",
+  "theme": {
+    "polices": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500&family=Jost:wght@400;600&display=swap",
+    "police_titre": "Cormorant Garamond", "police_texte": "Jost",
+    "fond": "#F6EDE5", "texte": "#2C1320", "texte_hero": "#2C1320", "accent": "#8E2B52", "sur_accent": "#FFFFFF", "doux": "#6C525D",
+    "titre_style": "italic", "titre_graisse": "500", "titre_casse": "none", "titre_espace": "-.01em", "titre_interligne": ".98",
+    "rayon": "200px 200px 0 0", "hero": "duo", "collection": "grille"
+  },
+  "hero": {
+    "sur": "Salon de coiffure",
+    "titre": ["Vos cheveux,", "votre couronne"],
+    "chapo": "Tresses, soins et coupes, avec le temps qu'il faut et les bons gestes pour chaque texture.",
+    "images": [["1632765866070-3fadf25d3d5b", "Une femme à la coiffure afro"]]
+  },
+  "manifeste": "Vous arrivez avec une idée, ou sans aucune. On vous écoute, on regarde vos cheveux, puis on trouve ensemble ce qui vous va.",
+  "vol": [
+    {"photo": "1761839256791-6a93f89fb8b0", "alt": "Une coiffeuse accueille une cliente", "petit": "D'abord", "titre": "L'accueil"},
+    {"photo": "1729005732908-de02acdeca5d", "alt": "Une coiffeuse au travail", "petit": "Ensuite", "titre": "Le geste"},
+    {"photo": "1761373564177-8505a38c91f2", "alt": "Des tresses vues de dos", "petit": "Enfin", "titre": "Le résultat"}
+  ],
+  "collection": {
+    "titre": "Prestations",
+    "texte": "Le prix dépend de la longueur. On vous le confirme avant de commencer.",
+    "pieces": [
+      {"photo": "1761373564177-8505a38c91f2", "nom": "Tresses", "detail": "Toutes longueurs", "prix": "dès 10 000 F"},
+      {"photo": "1709810529099-0ce6102692df", "nom": "Afro et soin", "detail": "Hydratation profonde", "prix": "dès 7 000 F"},
+      {"photo": "1618803208984-d8ce17b9093d", "nom": "Locks", "detail": "Création et entretien", "prix": "dès 12 000 F"},
+      {"photo": "1761839256791-6a93f89fb8b0", "nom": "Coupe et brushing", "detail": "Conseil compris", "prix": "dès 5 000 F"}
+    ]
+  },
+  "contact": {
+    "bouton": "Prendre rendez-vous", "bouton_court": "Rendez-vous", "bandeau": "Votre moment —",
+    "adresse": "Adresse du commerce, Dakar",
+    "horaires": ["Mardi au samedi : 9 h – 19 h", "Dimanche et lundi : fermé"]
+  }
+}

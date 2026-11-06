@@ -1,0 +1,10 @@
+# Données de prospects et de clients : jamais dans le dépôt public
+prospects.md
+_envoi/
+_en-ligne/
+modele/
+photos/
+clients/fatou-kine-hijab.json
+fatou-kine-hijab.html
+.wrangler/
+__pycache__/

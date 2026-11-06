@@ -1,0 +1,41 @@
+{
+  "nom": "Atelier Kër",
+  "secteur": "Prêt-à-porter",
+  "ville": "Dakar",
+  "fictif": true,
+  "whatsapp": "",
+  "theme": {
+    "polices": "https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@400;600&display=swap",
+    "police_titre": "Anton", "police_texte": "Archivo",
+    "fond": "#EFB723", "texte": "#111111", "texte_hero": "#111111", "accent": "#111111", "sur_accent": "#EFB723", "doux": "#3C300A",
+    "titre_style": "normal", "titre_graisse": "400", "titre_casse": "uppercase", "titre_espace": "0", "titre_interligne": "1",
+    "rayon": "0", "hero": "affiche", "collection": "rail"
+  },
+  "hero": {
+    "sur": "Prêt-à-porter",
+    "titre": ["Atelier", "Kër"],
+    "chapo": "Des pièces coupées à Dakar, faites pour être vues.",
+    "images": [["1696962678565-bee84e6b9cb6", "Une femme en tenue colorée devant un mur jaune"]]
+  },
+  "manifeste": "On ne suit pas la tendance, on la coud. Nos tissus viennent d'ici, nos coupes sont pour ici, et chaque pièce a du caractère.",
+  "vol": [
+    {"photo": "1708170236215-b6edcad7f49a", "alt": "Une femme tenant un éventail jaune", "petit": "Chapitre 1", "titre": "La couleur"},
+    {"photo": "1733324961705-97bd6cd7f4ba", "alt": "Une robe orange sur un podium", "petit": "Chapitre 2", "titre": "La coupe"},
+    {"photo": "1681545303529-b6beb2e19f02", "alt": "Un groupe de femmes en tenues colorées", "petit": "Chapitre 3", "titre": "L'allure"}
+  ],
+  "collection": {
+    "titre": "La collection",
+    "texte": "Tailles du S au XXL. Retouches possibles en atelier.",
+    "pieces": [
+      {"photo": "1531123414780-f74242c2b052", "nom": "Gilet wax", "detail": "Coupe droite", "prix": "25 000 F"},
+      {"photo": "1625646741211-711bdd65c570", "nom": "Robe fleurie", "detail": "Tissu léger", "prix": "35 000 F"},
+      {"photo": "1764593008195-87ca871d72bd", "nom": "Costume velours", "detail": "Sur mesure", "prix": "85 000 F"},
+      {"photo": "1709809081557-78f803ce93a0", "nom": "Ensemble Kente", "detail": "Pièce unique", "prix": "45 000 F"}
+    ]
+  },
+  "contact": {
+    "bouton": "Commander sur WhatsApp", "bouton_court": "Commander", "bandeau": "Atelier Kër —",
+    "adresse": "Adresse du commerce, Dakar",
+    "horaires": ["Lundi au samedi : 10 h – 20 h", "Dimanche : fermé"]
+  }
+}

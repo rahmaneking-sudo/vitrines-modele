@@ -1,0 +1,42 @@
+{
+  "nom": "Yaay Fatou",
+  "secteur": "Restaurant",
+  "ville": "Dakar",
+  "fictif": true,
+  "whatsapp": "",
+  "theme": {
+    "polices": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@1,9..144,500&family=Inter:wght@400;600&display=swap",
+    "police_titre": "Fraunces", "police_texte": "Inter",
+    "fond": "#15100C", "texte": "#F5ECDF", "texte_hero": "#FFFFFF", "accent": "#E9682B", "sur_accent": "#15100C", "doux": "#B8A997",
+    "titre_style": "italic", "titre_graisse": "500", "titre_casse": "none", "titre_espace": "-.02em", "titre_interligne": "1",
+    "rayon": "16px", "hero": "plein", "collection": "rail"
+  },
+  "hero": {
+    "sur": "Dalal ak jàmm",
+    "titre": ["Le goût", "de la maison"],
+    "chapo": "Des plats sénégalais préparés chaque matin, à partager sur place ou à emporter.",
+    "images": [["1665400808116-f0e6339b7e9a", "Une table couverte de plats"]]
+  },
+  "manifeste": "Ici, la marmite chauffe dès l'aube. On prend le temps, parce qu'un bon plat ne se presse pas et qu'il se partage toujours.",
+  "vol": [
+    {"photo": "1709548145082-04d0cde481d4", "alt": "La salle du restaurant le soir", "petit": "Entrez", "titre": "La salle"},
+    {"photo": "1773209928058-cfd3314acc7c", "alt": "Des marmites en terre remplies", "petit": "Approchez", "titre": "Les marmites"},
+    {"photo": "1665332195309-9d75071138f0", "alt": "Un plat de riz et de poisson grillé", "petit": "Installez-vous", "titre": "Votre assiette"}
+  ],
+  "collection": {
+    "titre": "La carte",
+    "texte": "Quelques plats du moment. La carte change selon le marché.",
+    "pieces": [
+      {"photo": "1665332195309-9d75071138f0", "nom": "Riz au poisson", "detail": "Poisson grillé, légumes", "prix": "3 500 F"},
+      {"photo": "1603496987674-79600a000f55", "nom": "Poulet braisé", "detail": "Riz jaune, sauce maison", "prix": "3 000 F"},
+      {"photo": "1555939594-58d7cb561ad1", "nom": "Grillades", "detail": "À partager, pour deux", "prix": "7 000 F"},
+      {"photo": "1763048443535-1243379234e2", "nom": "Plat du jour", "detail": "Mijoté depuis le matin", "prix": "2 500 F"},
+      {"photo": "1773209928058-cfd3314acc7c", "nom": "Grande tablée", "detail": "Pour les groupes", "prix": "Sur devis"}
+    ]
+  },
+  "contact": {
+    "bouton": "Réserver sur WhatsApp", "bouton_court": "Réserver", "bandeau": "À table —",
+    "adresse": "Adresse du commerce, Dakar",
+    "horaires": ["Lundi au samedi : 11 h – 22 h", "Dimanche : fermé"]
+  }
+}

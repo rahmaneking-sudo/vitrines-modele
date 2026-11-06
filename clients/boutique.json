@@ -1,0 +1,46 @@
+{
+  "nom": "Comptoir Wax",
+  "secteur": "Boutique",
+  "ville": "Dakar",
+  "fictif": true,
+  "whatsapp": "",
+  "theme": {
+    "polices": "https://fonts.googleapis.com/css2?family=Syne:wght@800&family=DM+Sans:wght@400;600&display=swap",
+    "police_titre": "Syne", "police_texte": "DM Sans",
+    "fond": "#F3E7D6", "texte": "#1C2A5A", "texte_hero": "#1C2A5A", "accent": "#C2431D", "sur_accent": "#FFFFFF", "doux": "#4D5478",
+    "titre_style": "normal", "titre_graisse": "800", "titre_casse": "none", "titre_espace": "-.03em", "titre_interligne": ".98",
+    "rayon": "14px", "hero": "collage", "collection": "grille"
+  },
+  "hero": {
+    "sur": "Boutique",
+    "titre": ["Comptoir", "Wax"],
+    "chapo": "Tissus, sacs et accessoires choisis un par un, à Dakar.",
+    "images": [
+      ["1752940473717-b98e4e37ac89", "Une femme élégante dans une boutique"],
+      ["1768212565426-58b089b6386d", "Des tissus africains colorés"],
+      ["1717913491283-2936576a88b7", "Une étagère de sacs colorés"],
+      ["1717913492006-555671468593", "Un étalage de foulards"]
+    ]
+  },
+  "manifeste": "Chaque semaine, de nouveaux arrivages. Passez voir, touchez les tissus, repartez avec ce que personne d'autre n'aura.",
+  "vol": [
+    {"photo": "1778230501964-b35213ddc48e", "alt": "Des vêtements colorés exposés", "petit": "Poussez la porte", "titre": "La boutique"},
+    {"photo": "1768212566108-4ce4f329e4d2", "alt": "Des textiles à motifs", "petit": "Regardez de près", "titre": "Les tissus"},
+    {"photo": "1717913491283-2936576a88b7", "alt": "Une étagère de sacs colorés", "petit": "Choisissez", "titre": "Vos pièces"}
+  ],
+  "collection": {
+    "titre": "En rayon",
+    "texte": "Les quantités sont limitées. Écrivez-nous pour vérifier le stock.",
+    "pieces": [
+      {"photo": "1768212565426-58b089b6386d", "nom": "Tissus wax", "detail": "Vendus par 6 yards", "prix": "dès 15 000 F"},
+      {"photo": "1717913491283-2936576a88b7", "nom": "Sacs", "detail": "Faits main", "prix": "dès 12 000 F"},
+      {"photo": "1717913492006-555671468593", "nom": "Foulards", "detail": "Couleurs au choix", "prix": "dès 5 000 F"},
+      {"photo": "1773864931052-ea56474bcc84", "nom": "Tenues", "detail": "Nouveaux arrivages", "prix": "dès 20 000 F"}
+    ]
+  },
+  "contact": {
+    "bouton": "Voir le stock sur WhatsApp", "bouton_court": "Stock", "bandeau": "Nouveaux arrivages —",
+    "adresse": "Adresse du commerce, Dakar",
+    "horaires": ["Lundi au samedi : 9 h 30 – 20 h", "Dimanche : fermé"]
+  }
+}

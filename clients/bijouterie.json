@@ -1,0 +1,41 @@
+{
+  "nom": "Maison Ngoné",
+  "secteur": "Bijouterie",
+  "ville": "Dakar",
+  "fictif": true,
+  "whatsapp": "",
+  "theme": {
+    "polices": "https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,500&family=Montserrat:wght@400;600&display=swap",
+    "police_titre": "Bodoni Moda", "police_texte": "Montserrat",
+    "fond": "#0C0B09", "texte": "#F3ECDD", "texte_hero": "#F3ECDD", "accent": "#C9A45C", "sur_accent": "#0C0B09", "doux": "#A89F8D",
+    "titre_style": "normal", "titre_graisse": "500", "titre_casse": "uppercase", "titre_espace": ".03em", "titre_interligne": "1.04",
+    "rayon": "2px", "hero": "ecrin", "collection": "grille"
+  },
+  "hero": {
+    "sur": "Bijouterie",
+    "titre": ["L'or", "à votre image"],
+    "chapo": "Des bijoux en or pour les grands jours, et pour tous les autres.",
+    "images": [["1791232776276-b18618605685", "Une femme portant des bijoux en or"]]
+  },
+  "manifeste": "Un bijou se garde longtemps. Il se transmet, il raconte une histoire. Alors on vous laisse le temps de choisir celui qui sera le vôtre.",
+  "vol": [
+    {"photo": "1761735489573-15b2d60280f5", "alt": "Des mains ornées de bagues et d'un bracelet", "petit": "Le détail", "titre": "La main"},
+    {"photo": "1786052351985-0c1168cb9e94", "alt": "Une bague en or de près", "petit": "La matière", "titre": "L'or"},
+    {"photo": "1583292650898-7d22cd27ca6f", "alt": "Des bracelets en or sur un pull jaune", "petit": "L'éclat", "titre": "Votre style"}
+  ],
+  "collection": {
+    "titre": "Collection",
+    "texte": "Une sélection de nos pièces. Commandes sur mesure possibles.",
+    "pieces": [
+      {"photo": "1631982690223-8aa4be0a2497", "nom": "Bagues", "detail": "Or, finitions au choix", "prix": "dès 60 000 F"},
+      {"photo": "1617038220319-276d3cfab638", "nom": "Boucles d'oreilles", "detail": "Créoles torsadées", "prix": "dès 45 000 F"},
+      {"photo": "1583292650898-7d22cd27ca6f", "nom": "Bracelets", "detail": "À porter seuls ou à plusieurs", "prix": "dès 80 000 F"},
+      {"photo": "1791232776276-b18618605685", "nom": "Colliers", "detail": "Pièces fines et pièces fortes", "prix": "dès 90 000 F"}
+    ]
+  },
+  "contact": {
+    "bouton": "Demander une pièce", "bouton_court": "Nous écrire", "bandeau": "Sur rendez-vous —",
+    "adresse": "Adresse du commerce, Dakar",
+    "horaires": ["Lundi au samedi : 10 h – 19 h", "Dimanche : sur rendez-vous"]
+  }
+}
